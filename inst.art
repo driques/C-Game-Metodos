@@ -1,0 +1,14 @@
+ _           _                       _                       
+(_)         | |                     (_)                      
+ _ _ __  ___| |_ _ __ _   _  ___ ___ _  ___  _ __   ___  ___ 
+| | '_ \/ __| __| '__| | | |/ __/ __| |/ _ \| '_ \ / _ \/ __|
+| | | | \__ \ |_| |  | |_| | (_| (__| | (_) | | | |  __/\__ \
+|_|_| |_|___/\__|_|   \__,_|\___\___|_|\___/|_| |_|\___||___/
+
+1) Primero, se debe seleccionar el mapa a jugar, esto se hace con la funcion 3, eligiendo un archivo .in .
+2) Luego, puedes seleccionar el tipo de juego que deseas, puede resolverlo la maquina, o tu.
+3) Tambien, puedes exportar el mapa entregado en otro formato codificado.
+4) Si es que en el recorrido manual, guardaste una partida, puedes volver a jugarla con la contrasenia guardada, de esta
+   forma, ¡solo tu jugaras tu avance!.
+
+Finalamente, ¡diviertete intentando salvar la ciudad de Kingpin con la ayuda de Spiderman y sus amigos!.
